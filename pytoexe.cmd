@@ -1,1 +1,1 @@
-pyinstaller --clean --win-private-assemblies -F --add-binary ".\chromedriver.exe";"." .\Multi_ClassSheet_Spider.py
+pyinstaller --clean --win-private-assemblies -F --add-binary ".\chromedriver.exe";"." .\Multi_ClassSheet_Spider.spec
